@@ -1,0 +1,2 @@
+# optical-fibre-fault-detection-using-machine-learning
+Develop a machine learning-based optical fiber fault detection system that uses real-time sensor data (like signal strength and attenuation) to automatically identify and classify fiber network issues. The system will leverage supervised and unsupervised learning algorithms to predict faults and enable predictive maintenance, reducing downtime 
